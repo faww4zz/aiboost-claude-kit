@@ -15,11 +15,9 @@ One install gets you:
 In Claude Code (desktop app, or the terminal), run these two lines:
 
 ```
-/plugin marketplace add YOUR-GITHUB-USERNAME/aiboost-claude-kit
+/plugin marketplace add faww4zz/aiboost-claude-kit
 /plugin install aiboost-starter
 ```
-
-> Replace `YOUR-GITHUB-USERNAME` with the GitHub account this repo lives under.
 
 Then type `/welcome` to get started, and `/setup-kit` to pull in the rest of the kit.
 
