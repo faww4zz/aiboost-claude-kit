@@ -1,12 +1,12 @@
 {
   "name": "aiboost-starter",
-  "version": "1.0.0",
-  "description": "AI Boost Center starter kit for new Claude Code users. Run /welcome to get oriented, /setup-kit to install the recommended skills, and /prompt-master to turn a rough idea into a clean prompt.",
+  "version": "1.1.0",
+  "description": "AI Boost Center starter kit for new Claude Code users. One install bundles six skills (prompt-master, humanizer, researcher, caveman, find-skills, frontend-slides) plus /welcome and /setup-kit. Run /welcome to get oriented.",
   "author": {
     "name": "Fawwaz Bin Abd Razak",
     "email": "fawwaz@aiboostcenter.com",
     "url": "https://aiboostcenter.com"
   },
   "homepage": "https://aiboostcenter.com",
-  "keywords": ["onboarding", "starter", "prompting", "aiboost", "training"]
+  "keywords": ["onboarding", "starter", "prompting", "slides", "humanizer", "research", "aiboost", "training"]
 }

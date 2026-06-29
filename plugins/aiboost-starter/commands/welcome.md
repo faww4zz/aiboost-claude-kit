@@ -20,6 +20,10 @@ This is Claude, but it can do real work on your computer. It reads your files, w
 2. Point it at a file. Say "read this file and tell me what it says" or "fix the wording in this document."
 3. Ask it to build something small. A simple webpage, a checklist, a one-page tool. Watch it work.
 
+**A note on permission pop-ups:**
+
+The first few times Claude wants to read a file or run something, it asks your permission. That is normal and it is there to keep you in control. Read what it wants to do, and click Allow if it makes sense. Nothing happens to your files without your say-so.
+
 **How to get good answers:**
 
 Be specific. Tell it what you want, what to avoid, and what "done" looks like. The clearer you are, the better the result. If you want help writing a prompt, run `/prompt-master`.
