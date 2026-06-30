@@ -41,6 +41,14 @@ If the slash commands feel fiddly, just paste this message to Claude and it will
 
 ---
 
+## If the plugin install is blocked on your machine
+
+Some work computers block plugin installs. If `/plugin install` does not work, use the **drop-in folder** instead — you copy the skills straight into Claude Code by hand. No install command, no admin rights.
+
+See the [`dropin/`](dropin/) folder and follow [`dropin/INSTALL.md`](dropin/INSTALL.md). In short: copy the `skills` and `commands` folders into your `~/.claude/` folder, restart Claude Code, done.
+
+---
+
 ## What's inside
 
 | Command | What it does |
